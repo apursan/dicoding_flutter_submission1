@@ -25,10 +25,8 @@ Project aplikasi ini hanya untuk submission kelas Fundamental Aplikasi Flutter D
      
 ## Features
 #### Submission Checklists
-- [x] Display images and information in the Format list
-- [x] A detail page appears when an item is clicked
-- [x] Display images and information on the detail page
-- [x] Display page about
+- [x] Display list of food
+- [x] Display food detail
 
 ## Installation
 Clone this repository and import into Android Studio
