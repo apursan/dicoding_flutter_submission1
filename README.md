@@ -1,16 +1,39 @@
-# dicoding_flutter_submission1
+# Lapar Aja
 
-A new Flutter project.
+Submission - Belajar Fundamental Aplikasi Flutter
 
-## Getting Started
+# Read This
+Project aplikasi ini hanya untuk submission kelas Fundamental Aplikasi Flutter Dicoding, segala bentuk plagiarisme akan otomatis terdeteksi jika menggunakan project aplikasi ini untuk submission. Diharapkan project ini digunakan sebagai referensi belajar dan bukan untuk copy-paste project submission!!!
 
-This project is a starting point for a Flutter application.
+# Screenshot
+<img src="https://user-images.githubusercontent.com/41522863/105827875-16424480-5ff5-11eb-8c39-452a57c5c188.jpg"
+     alt="Beranda"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://user-images.githubusercontent.com/41522863/105827883-18a49e80-5ff5-11eb-912e-cf850589956c.jpg"
+     alt="Detail Makanan"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://user-images.githubusercontent.com/41522863/105827887-19d5cb80-5ff5-11eb-8798-8cc8edefc561.jpg"
+     alt="Akun - Makanan Favorit"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://user-images.githubusercontent.com/41522863/105827890-1a6e6200-5ff5-11eb-8453-3ace5ae4e8f8.jpg"
+     alt="Akun - Pengaturan"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+     
+## Features
+#### Submission Checklists
+- [x] Display images and information in the Format list
+- [x] A detail page appears when an item is clicked
+- [x] Display images and information on the detail page
+- [x] Display page about
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+Clone this repository and import into Android Studio
+```
+https://github.com/apursan/dicoding_flutter_submission1.git
+```
+## Author
+* #### Angger Pursan Pratama
