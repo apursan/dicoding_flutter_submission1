@@ -1,6 +1,6 @@
-# Lapar Aja
+# dicoding_flutter_submission1 (Lapar Aja)
 
-Submission - Belajar Fundamental Aplikasi Flutter
+Submission 1 - Belajar Fundamental Aplikasi Flutter
 
 # Read This
 Project aplikasi ini hanya untuk submission kelas Fundamental Aplikasi Flutter Dicoding, segala bentuk plagiarisme akan otomatis terdeteksi jika menggunakan project aplikasi ini untuk submission. Diharapkan project ini digunakan sebagai referensi belajar dan bukan untuk copy-paste project submission!!!
